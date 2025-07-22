@@ -1,0 +1,10 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cairo&display=swap');
+
+body {
+  font-family: 'Cairo', sans-serif;
+}
+
+ul li::marker {
+  color: #22d3ee;
+}
